@@ -18,6 +18,7 @@
 // 1- have menus for above mentioned options,
 // 2- provide info about time of last update, time to next refresh, time of last found appointment
 // c. Check whether it works on chrome
+
 var notifPlayer = document.createElement('AUDIO')
 notifPlayer.src = 'https://dl.dropbox.com/u/7079101/coin.mp3'
 notifPlayer.preload = 'auto'
